@@ -8,3 +8,5 @@ I am a retired software engineer building apps as a hobby. All of my apps target
 - The apps are free of tracking, data mining, and any other activity that would impact your privacy.
 
 These apps are a gift to the world. I hope someone finds them enjoyable or useful.
+
+Please contact me with any bug reports, feature requests, or other feedback: [stephen.e.bensley@gmail.com](mailto:stephen.e.bensley@gmail.com).
